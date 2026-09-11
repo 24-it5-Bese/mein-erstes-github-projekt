@@ -11,3 +11,5 @@ Hallo! Ich lerne gerade GutHub.
 Irgendwas zwischen GID und EVP - ansonsten immer Sport.
 ## Mein Ziel
 Ich möchte mit GitHub lernen, wie man gemeinsamen an Projekten arbeitet.
+## Meine Änderung
+Diese Änderung habe ich in meinem eigenen Branch erstellt.
