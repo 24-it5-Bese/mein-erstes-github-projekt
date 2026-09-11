@@ -1,8 +1,8 @@
 # mein-erstes-Github-Projekt
 Hallo! Ich lerne gerade GutHub.
 ## Über mich 
-Name: Lukas
-Klasse: 24-it5
+- Name: Lukas Bese
+- Klasse: 24-it5
 ## Das möchte ich lernen
 - GitHub verstehen
 - Dateien bearbeiten
