@@ -1,4 +1,4 @@
-# mein-erstes-github-projekt
+# mein-erstes-Github-Projekt
 Hallo! Ich lerne gerade GutHub.
 ## Über mich 
 Name: Lukas
@@ -7,3 +7,7 @@ Klasse: 24-it5
 - GitHub verstehen
 - Dateien bearbeiten
 - Mit anderen zusammenarbeiten
+## Mein Lieblingsfach
+Irgendwas zwischen GID und EVP - ansonsten immer Sport.
+## Mein Ziel
+Ich möchte mit GitHub lernen, wie man gemeinsamen an Projekten arbeitet.
